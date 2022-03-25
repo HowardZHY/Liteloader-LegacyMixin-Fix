@@ -9,3 +9,5 @@ See https://www.planetminecraft.com/forums/help/javaedition/1-8-9-and-1-12-2-how
 # If u don't know how to change file in .jar
 # replace the file .minecraft\libraries\com\mumfrey\liteloader\1.8.9(1.12.2)\liteloader-1.8.9(1.12.2)-SNAPSHOT.jar with the jar downloaded here :)
 # mods like ViaForge and 3DSKINlayers should work fine now with liteloader !
+
+# PS: this WON'T fix mixin conflicts like https://github.com/CCBlueX/LiquidBounce/issues/733 ask mod owner if u meet failed to launch like this
